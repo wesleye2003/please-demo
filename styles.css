@@ -1,0 +1,16 @@
+.box{
+  width: 19.7%;
+  height: 110px;
+  margin-left: auto;
+  margin-right: auto;
+  display: inline-block;
+}
+
+.button{
+  width: 19.7%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 50px;
+  display: inline-block;
+  text-align: center;
+}
